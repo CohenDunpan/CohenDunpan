@@ -5,6 +5,9 @@ I am Cohen Dunpan.
 Now, I'm interested in Data Science/Data Synthetic/FinTech.  
 If you have some special or even crazy ideas, please contact me!  
 
+
+Nothing is difficult to the man who will try
+
 <!--
 **CohenDunpan/CohenDunpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
