@@ -1,7 +1,7 @@
 Hi 👋
 # About me
 
-I am Cohen Dunpan.  
+I am Li Jiaxin.  
 Now, I'm interested in Data Science/Data Synthetic/FinTech.  
 If you have some special or even crazy ideas, please contact me!  
 
